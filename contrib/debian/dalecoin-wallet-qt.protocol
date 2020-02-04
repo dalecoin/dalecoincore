@@ -1,0 +1,11 @@
+[Protocol]
+exec=dalecoin-qt '%u'
+protocol=dalecoin
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

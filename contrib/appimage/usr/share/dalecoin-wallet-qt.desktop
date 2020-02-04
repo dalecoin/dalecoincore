@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=dalecoin-wallet-qt
+Comment=DaleCoin P2P Cryptocurrency
+Exec=/usr/bin/dalecoin-wallet-qt
+Terminal=false
+Type=Application
+Icon=dalecoin-wallet-qt
+MimeType=x-scheme-handler/dalecoin;
+Categories=Office;

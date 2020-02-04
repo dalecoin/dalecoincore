@@ -1,0 +1,9 @@
+Building DaleCoin
+
+See doc/readme-qt.rst for instructions on building DaleCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of DaleCoin.
+
+See doc/build-*.txt for instructions on building DaleCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of DaleCoin.

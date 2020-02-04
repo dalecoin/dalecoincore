@@ -1,0 +1,2 @@
+debian/bin/dalecoind usr/bin
+src/dalecoind usr/lib/blackcoin
