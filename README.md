@@ -6,7 +6,7 @@
 
 DaleCoin development tree
 
-DaleCoin is a PoS-based cryptocurrency forked from bitbay.
+DaleCoin is a PoW/PoS-based cryptocurrency forked from bitbay.
 
 DaleCoin
 ===========================
@@ -17,3 +17,22 @@ Development process
 ===========================
 
 Developers work in their own trees, then submit pull requests when they think their feature or bug fix is ready.
+
+
+Window wallet setup process
+===========================
+1. run the dalecoin windows wallet then close it.
+2. locate the dalecoin data directory in your pc "C:\Users\YourUserName\Appdata\Roaming\DaleCoin"
+3. open the folder and create a file dalecoin.conf and paste the following data in it and save.
+
+rpcuser=dalecoinrpc
+rpcpassword=anypassword
+rpcallowip=127.0.0.1
+server=1
+deamon=1
+addnode=45.76.42.253
+addnode=172.105.19.8
+addnode=165.227.107.93
+
+you can download the dalecoin.conf file here and paste it in dalecoin data directory.
+now run the windows wallet to sync to the network
