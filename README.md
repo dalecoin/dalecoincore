@@ -34,7 +34,7 @@ addnode=45.76.42.253
 addnode=172.105.19.8
 addnode=165.227.107.93
 
-you can download the dalecoin.conf file here and paste it in dalecoin data directory.
+you can download the dalecoin.conf file [here](https://github.com/dalecoin/dalecoincore/blob/master/dalecoin.conf). and paste it in dalecoin data directory.
 now run the windows wallet to sync to the network
 
 same process applies to ubuntu. locate the dalecoin data directory and paste the data in the config file and save.
