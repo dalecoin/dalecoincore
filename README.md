@@ -31,8 +31,8 @@ rpcallowip=127.0.0.1
 server=1
 deamon=1
 addnode=45.76.42.253
-addnode=172.105.19.8
-addnode=165.227.107.93
+addnode=45.63.8.179
+
 
 you can download the dalecoin.conf file [here](https://github.com/dalecoin/dalecoincore/blob/master/dalecoin.conf). and paste it in dalecoin data directory.
 now run the windows wallet to sync to the network
