@@ -63,3 +63,10 @@ Swap from dalc erc20 to dalc mainchain details
 50,000 for marketing and development.
 
 
+Dalecoin Block Explorer
+=======================
+
+http://explorer.dalecoin.org/
+
+
+
