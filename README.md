@@ -55,6 +55,9 @@ POS reward= 0.20 coins/block
 
 average block time = ~ 60 seconds
 
+rpc port=11115
+p2p port=11114
+
 
 Swap from dalc erc20 to dalc mainchain details
 ================================================
