@@ -53,7 +53,7 @@ monthly coin reward emission= ~ 6,000 to 10,000 coins
 POW reward= 0.05 coins/block
 POS reward= 0.20 coins/block
 
-average block time = ~ 60 seconds
+average block time = ~ 60 seconds - 20 mins
 
 rpc port=11115
 p2p port=11114
