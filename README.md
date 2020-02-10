@@ -43,7 +43,7 @@ same process applies to ubuntu. locate the dalecoin data directory and paste the
 Dalecoin mainchain specs
 ===========================
 
-initial coin supply= 250,000 coins
+initial coin supply= ~250,000 coins
 
 maximum coin supply= 5,000,000 coins 
 
