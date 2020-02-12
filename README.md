@@ -32,6 +32,7 @@ server=1
 deamon=1
 addnode=45.76.42.253
 addnode=45.63.8.179
+addnode=108.61.245.193
 
 
 you can download the dalecoin.conf file [here](https://github.com/dalecoin/dalecoincore/blob/master/dalecoin.conf). and paste it in dalecoin data directory.
