@@ -74,7 +74,6 @@ https://yobit.net/en/trade/DALC/BTC
 https://mercatox.com/exchange/DALC/BTC
 
 
-http://explorer.dalecoin.org/
 Dalecoin Block Explorer
 =======================
 
