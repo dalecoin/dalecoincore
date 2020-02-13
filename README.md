@@ -64,7 +64,7 @@ Swap from dalc erc20 to dalc mainchain details
 ================================================
 100,000 will be used for swap (10 dalc erc20 to 1 dalc mainchain) click link to swap. 
 100,000 will be used to negotiate retaining old exchanges and aquiring new exchanges.
-50,000 for marketing and development.
+50,000 for marketing and development. [Link to swap will be provided soon]
 
 
 Exchanges trading Dalecoin ERC20 token
