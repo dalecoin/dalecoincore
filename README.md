@@ -67,6 +67,14 @@ Swap from dalc erc20 to dalc mainchain details
 50,000 for marketing and development.
 
 
+Exchanges trading Dalecoin ERC20 token
+======================================
+https://yobit.net/en/trade/DALC/BTC
+
+https://mercatox.com/exchange/DALC/BTC
+
+
+http://explorer.dalecoin.org/
 Dalecoin Block Explorer
 =======================
 
