@@ -84,6 +84,10 @@ https://yobit.net/en/trade/DALC/BTC
 https://mercatox.com/exchange/DALC/BTC
 
 
+Exchanges trading Dalecoin Mainnet coins
+======================================
+Coming very soon
+
 Dalecoin Block Explorer
 =======================
 
