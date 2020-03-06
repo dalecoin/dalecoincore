@@ -39,6 +39,17 @@ now run the windows wallet to sync to the network
 
 same process applies to ubuntu. locate the dalecoin data directory and paste the data in the config file and save.
 
+Dependencies needed before setting up Ubuntu 18.04 linux Qt wallets and deamon.
+simply run the following commands in your ubuntu 18.04 terminal
+===========================
+
+
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get install build-essential libboost-filesystem-dev libboost-program-options-dev libboost-thread-dev libdb-dev libdb++-dev libminiupnpc-dev libssl1.0-dev
+sudo apt-get install libboost-all-dev qt5-default libqt5gui5 libqt5core5a libqt5dbus5 qttools5-dev qttools5-dev-tools libprotobuf-dev protobuf-compiler libqrencode-dev
+
+
 
 Dalecoin mainchain specs
 ===========================
