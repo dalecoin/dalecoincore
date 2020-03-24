@@ -36,7 +36,9 @@ addnode=108.61.245.193<br/>
 Optional Options | Parameters | Function
 -----------------|------------|---------
 testnet | 0 or 1 | Launch wallet with testnet connection
-gen | 0 or 1 | Enable PoW
+listen | 0 or 1 | Listen to the port
+staking | 0 or 1 | Enable/disable staking
+enableaccounting | 0 or 1 | enable getbalance with account parameter
 
 
 
