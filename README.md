@@ -104,13 +104,13 @@ Dalecoin Block Explorer
 
 http://explorer.dalecoin.org/
 
-#Our Community
-(Telegram)[https://t.me/dalcc]
-(Twitter)[https://DalecoinN]
-(Facebook)[https://facebook.com/dalecoin]
-(Discord)[https://discord.gg/aNCMvG2]
-(Medium)[https://medium.com/@DalecoinDev]
-(BitcoinTalk Topic)[https://bitcointalk.org/index.php?topic=2057829.0]
+# Our Community
+[Telegram](https://t.me/dalcc)
+[Twitter](https://DalecoinN)
+[Facebook](https://facebook.com/dalecoin)
+[Discord](https://discord.gg/aNCMvG2)
+[Medium](https://medium.com/@DalecoinDev)
+[BitcoinTalk Topic](https://bitcointalk.org/index.php?topic=2057829.0)
 
 
 
