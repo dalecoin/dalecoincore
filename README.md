@@ -19,26 +19,30 @@ Development process
 Developers work in their own trees, then submit pull requests when they think their feature or bug fix is ready.
 
 
-Window wallet setup process
+Windows wallet setup process
 ===========================
 1. run the dalecoin windows wallet then close it.
 2. locate the dalecoin data directory in your pc "C:\Users\YourUserName\Appdata\Roaming\DaleCoin"
 3. open the folder and create a file dalecoin.conf and paste the following data in it and save.
 
-rpcuser=dalecoinrpc<br/>
-rpcpassword=anypassword<br/>
-rpcallowip=127.0.0.1<br/>
-server=1<br/>
-deamon=1<br/>
-addnode=45.63.8.179<br/>
-addnode=108.61.245.193<br/>
+```
+rpcuser=dalecoinrpc
+rpcpassword=anypassword
+rpcallowip=127.0.0.1
+addnode=45.63.8.179
+addnode=108.61.245.193
+```
 
 Optional Options | Parameters | Function
 -----------------|------------|---------
 testnet | 0 or 1 | Launch wallet with testnet connection
+regtest | 0 or 1 | Make your own private Dalecoin blockchain with `void` available there
 listen | 0 or 1 | Listen to the port
 staking | 0 or 1 | Enable/disable staking
 enableaccounting | 0 or 1 | enable getbalance with account parameter
+server | 0 or 1 | Enable listening to JSON/RPC call
+listen | PORT | when [server] is 1 listen to port [listen]
+rpcallowip | IP | 127.0.0.1 for localhost. Use wildcard(*) to receive connection from anywhere (including untrusted connection)
 
 
 
