@@ -288,7 +288,7 @@ Value getblock(const Array& params, bool fHelp)
     if (params.size() > 1) {
             verbosity = params[1].get_bool() ? 1 : 0;
     }else{
-	    verbosity = 0;	//Output RAW TX if second parameter is not set, useful for ElectrumX
+	    verbosity = 1;	//Output RAW TX if second parameter is not set, useful for ElectrumX
     }
 
     if (mapBlockIndex.count(hash) == 0)
